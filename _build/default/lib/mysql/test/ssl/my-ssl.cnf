@@ -1,0 +1,4 @@
+[mysqld]
+ssl-ca=/home/viktor/repos/mysql-otp/test/ssl/ca.pem
+ssl-cert=/home/viktor/repos/mysql-otp/test/ssl/server-cert.pem
+ssl-key=/home/viktor/repos/mysql-otp/test/ssl/server-key.pem
