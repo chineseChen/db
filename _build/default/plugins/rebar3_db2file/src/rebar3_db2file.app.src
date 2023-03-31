@@ -1,0 +1,15 @@
+{application, rebar3_db2file,
+    [{description, "A rebar plugin"},
+        {vsn, "0.1.0"},
+        {registered, []},
+        {applications,
+            [kernel,
+                stdlib,
+                c_lib
+            ]},
+        {env, []},
+        {modules, []},
+
+        {licenses, ["Apache-2.0"]},
+        {links, []}
+    ]}.
