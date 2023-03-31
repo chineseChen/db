@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"mysql">>,{pkg,<<"mysql">>,<<"1.8.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"mysql">>, <<"0E4BBCF701B7D8EA5C3750F220F26323C0FC18B844960988BE196B33A8A9F3C1">>}]},
+{pkg_hash_ext,[
+ {<<"mysql">>, <<"D473C479C19E5CDE20237458EEAD6673C3C00E0EF84AFD30615AEBBB67FEE7B3">>}]}
+].
