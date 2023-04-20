@@ -1,0 +1,10 @@
+{application,c_log,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{c_log_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[c_log_app,c_log_file,c_log_handle,c_log_sup]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.

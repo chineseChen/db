@@ -1,0 +1,10 @@
+{application,c_bi,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{c_bi_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[bi,biT,biT_test,c_bi_app,c_bi_sup]},
+              {licenses,["Apache-2.0"]},
+              {links,[]}]}.
