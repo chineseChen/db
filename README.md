@@ -1,5 +1,6 @@
 # 简介
 
+erlang Hibernate
 db用于游戏服务器数据存储,不同数据类型上锁,ets作内缓存,mysql持久化。
 
 # 环境
